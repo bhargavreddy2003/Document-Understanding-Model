@@ -17,6 +17,9 @@ This project involves creating a document understanding AI model using Oracle Cl
 - Oracle Cloud Infrastructure
 - AI/ML for document understanding
 - Postman for API automation
+- FQL
+- Rest APIs
+  
 
 ## ScreenShots
 #### workflow.
