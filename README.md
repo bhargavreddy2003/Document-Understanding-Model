@@ -20,8 +20,8 @@ This project involves creating a document understanding AI model using Oracle Cl
 
 ## ScreenShots
 #### workflow.
-![Work Flow Screenshot](./ScreenShots/workflow.png)
+![Work Flow Screenshot](ScreenShots/workflow.png)
 #### Classification
-![Work Flow Screenshot](./ScreenShots/Classification.png)
+![Work Flow Screenshot](ScreenShots/Classification.png)
 #### Key-Value Extraction
-![Work Flow Screenshot](./ScreenShots/Extraction.png)
+![Work Flow Screenshot](ScreenShots/Extraction.png)
