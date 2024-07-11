@@ -1,7 +1,7 @@
 
 # Document Understanding AI model and API
 
-This project involves creating a document understanding AI model using Oracle Cloud Infrastructure (OCI) to classify and extract data from two types of documents: Bill of Lading (BOL) and Statement of Account (SOA). The model leverages OCI's AI capabilities to accurately identify these document types and extract relevant information. To streamline and automate the process, API calls were implemented using Postman.
+This project involves creating a document understanding AI model using Oracle Cloud Infrastructure (OCI) to classify and extract data from two types of documents: Bill of Lading (BOL) and Sales Order Acknowlegment(SOA). The model leverages OCI's AI capabilities to accurately identify these document types and extract relevant information. To streamline and automate the process, API calls were implemented using Postman.
 
 
 ## Features
